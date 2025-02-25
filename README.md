@@ -5,7 +5,7 @@
 - <b>Project 1 </b>
   - Link
 - <b>Project 2</b>
-  - Link <b><i>(Potentially NSFW)</b></i>
+  - Link <b><i></b></i>
 - <b>Project 3</b>
   - Link
 - <b>Project 4</b>
