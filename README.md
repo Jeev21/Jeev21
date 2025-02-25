@@ -10,9 +10,8 @@
   - Link
 - <b>Project 4</b>
   - Link
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+ 
+    
 <h2>📺 Youtube Channel</h2>
 
 - 
