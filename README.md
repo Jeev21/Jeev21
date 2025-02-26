@@ -1,4 +1,4 @@
-<h1>Hi, I'm CJ! <br/><a href="https://www.linkedin.com/in/css21/">Mechanical Engineer</a>, <a href="https://www.youtube.com/@Jeev_">Game Developer</a>
+<h1>Hi, I'm CJ! <br/><a href="https://www.linkedin.com/in/css21/">Mechanical Engineer</a>, <a href="https://jeev21.itch.io/">Game Developer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -16,7 +16,7 @@
 
     
 <h2>📺 Youtube Channel</h2>
-
+- https://www.youtube.com/@Jeev_
 - 
 
 <h2> 🤳 Connect with me:</h2>
