@@ -4,13 +4,6 @@
 
 - <b>Project 1 </b>
   - Link
-- <b>Project 2</b>
-  - Link <b><i></b></i>
-- <b>Project 3</b>
-  - Link
-- <b>Project 4</b>
-  - Link
- 
     
 <h2>📺 Youtube Channel</h2>
 
