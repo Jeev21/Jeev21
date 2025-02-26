@@ -2,8 +2,18 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Project 1 </b>
-  - Link
+- <b>Section 1: Additive Manufacturing </b>
+  - Soap Stand
+  - Rivian Blue Fanuc M-i900A
+  - Derby Car (1st Place ASME Design Challenge)
+  - Golf Club with embedded steel
+  - Maracas embedded with Macaroni
+- <b>Section 2: Academic Projects </b>
+  - Musical Instrument Table
+  - Kundts Tunnel Experiment
+  - The Egg
+  - Stirling Engine
+
     
 <h2>📺 Youtube Channel</h2>
 
